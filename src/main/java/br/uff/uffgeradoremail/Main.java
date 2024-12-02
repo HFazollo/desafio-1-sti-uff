@@ -1,13 +1,10 @@
 package br.uff.uffgeradoremail;
 
-import br.uff.uffgeradoremail.model.Aluno;
 import br.uff.uffgeradoremail.service.CriaUffmail;
 import br.uff.uffgeradoremail.service.CsvReader;
 import br.uff.uffgeradoremail.service.CsvUpdater;
 import br.uff.uffgeradoremail.service.EmailGenerator;
-import br.uff.uffgeradoremail.util.SmsService;
 
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
