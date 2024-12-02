@@ -1,0 +1,6 @@
+br\uff\uffgeradoremail\model\Aluno.class
+br\uff\uffgeradoremail\util\SmsService.class
+br\uff\uffgeradoremail\service\EmailGenerator.class
+br\uff\uffgeradoremail\service\CsvReader.class
+br\uff\uffgeradoremail\service\CsvUpdater.class
+br\uff\uffgeradoremail\Main.class
